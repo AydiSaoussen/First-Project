@@ -1,2 +1,2 @@
-#  Hypergraph Annoté 
+#  Hypergraphe Annoté 
 
